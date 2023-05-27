@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class MaxSubsequenceScore {
     public long maxScore(int[] nums1, int[] nums2, int k) {
         int n = nums1.length;
         int[][] arr = new int[n][2];
