@@ -1,7 +1,9 @@
+import java.util.*;
+
 public class TopKFrequentElements {
     public int[] topKFrequent(int[] nums, int k) {
         // Creating a Frequency Table
-        Map<Integer,Integer> map = new HashMap();
+        Map<Integer,Integer> map = new HashMap<>();
         for(int n : nums){
             map.put(n,map.getOrDefault(n,0) + 1);
         }
