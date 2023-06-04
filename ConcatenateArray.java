@@ -1,3 +1,4 @@
+//day 17
 public class ConcatenateArray {
     public int[] getConcatenation(int[] nums) {
         int[] arr = new int[2*nums.length];
