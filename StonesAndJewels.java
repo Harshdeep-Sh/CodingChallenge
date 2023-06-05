@@ -1,3 +1,4 @@
+// day 18
 public class StonesAndJewels {
     public int numJewelsInStones(String jewels, String stones) {
         int count = 0;
