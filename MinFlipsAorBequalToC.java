@@ -1,3 +1,4 @@
+// day 20
 public class MinFlipsAorBequalToC {
     public int minFlips(int a, int b, int c) {
         int r1,r2,r3;
