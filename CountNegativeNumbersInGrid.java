@@ -1,3 +1,4 @@
+// day 21
 public class CountNegativeNumbersInGrid {
     public int countNegatives(int[][] grid) {
         int c = 0;
