@@ -1,3 +1,4 @@
+// day 22
 public class SmallestLetterGreaterThanTarget {
     public char nextGreatestLetter(char[] letters, char target) {
 		int res=0;
