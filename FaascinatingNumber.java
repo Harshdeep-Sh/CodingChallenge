@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// day 23
 public class FaascinatingNumber {
     public static void main(String[] args) {
         int n = 192;
