@@ -1,3 +1,5 @@
+// day 25 - Leetcode Problem 2221: Find Triangular Sum of Array
+
 public class TriangularSumOfArray {
     public int[] helper(int[] nums){
         int[] arr = new int[nums.length-1];
