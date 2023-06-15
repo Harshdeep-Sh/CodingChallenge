@@ -1,3 +1,5 @@
+// day 27 - Leetcode Problem 2712: Minimum Cost to Make All Characters Equal
+
 public class MinCostToMakeAllCharactersEqual {
     public long minimumCost(String s) {
         long cost = 0l;
