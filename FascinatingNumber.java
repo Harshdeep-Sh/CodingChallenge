@@ -1,6 +1,6 @@
 import java.util.Arrays;
 // day 23
-public class FaascinatingNumber {
+public class FascinatingNumber {
     public static void main(String[] args) {
         int n = 192;
         int nn = n*2;
