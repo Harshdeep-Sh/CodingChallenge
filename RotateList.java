@@ -6,6 +6,8 @@ class ListNode {
       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
   }
 
+// day 31 - Leetcode Problem 61: Rotate List 
+
 public class RotateList{
     public ListNode rotateRight(ListNode head, int k) {
         int len = 1;
