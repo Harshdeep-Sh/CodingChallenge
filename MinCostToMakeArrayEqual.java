@@ -1,3 +1,4 @@
+// day 33 - LeetCode Problem 2448: Minimum Cost to Make Array Equal
 public class MinCostToMakeArrayEqual {
     public long helper(int[] nums, int[] cost, int val){
         long ans = 0L;
