@@ -1,3 +1,5 @@
+//day 34 - LeetCode Problem 2391: Minimum Amount of Time to Collect Garbage
+
 public class MinTimeToCollectGarbage {
     public int garbageCollection(String[] garbage, int[] travel) {
         int ans = 0;
