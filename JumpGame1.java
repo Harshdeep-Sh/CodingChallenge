@@ -1,3 +1,5 @@
+// day 35 - LeetCode Problem 55: Jump Game 1
+
 public class JumpGame1 {
     public boolean canJump(int[] nums) {
         int curr=nums[0];
