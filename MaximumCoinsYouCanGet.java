@@ -1,5 +1,6 @@
-import java.util.Arrays;
+// Day 41 - LeetCode Problem 1561: Maximum Number of Coins You Can Get
 
+import java.util.Arrays;
 public class MaximumCoinsYouCanGet {
     public int maxCoins(int[] piles) {
 
