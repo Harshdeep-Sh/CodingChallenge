@@ -1,6 +1,8 @@
 import java.util.HashSet;
 import java.util.Set;
 
+// Day 43 - LeetCode Problem 859: Buddy Strings
+
 class BuddyStrings{
     public boolean buddyStrings(String s, String goal) {
         if(s.length()==1 || goal.length()==1){
