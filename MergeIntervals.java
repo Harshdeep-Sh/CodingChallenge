@@ -1,4 +1,4 @@
-// Day 47 - LeetCode Problem 56: Merge Intervals
+// Day 48 - LeetCode Problem 56: Merge Intervals
 import java.util.*;
 public class MergeIntervals {
     public int[][] merge(int[][] intervals) {
