@@ -1,4 +1,3 @@
-// Day 69 - LeetCode Problem 377: Combination Sum IV
 
 import java.util.Arrays;
 
